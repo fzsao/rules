@@ -163,7 +163,7 @@ payload:
   - DOMAIN-SUFFIX,doyonoc.com
   - DOMAIN-SUFFIX,oywtv.com  
  #抖音 
-    - DOMAIN,lf3-static.bytednsdoc.com
+  - DOMAIN,lf3-static.bytednsdoc.com
   - DOMAIN,v5-dy-o-abtest.zjcdn.com
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,douyincdn.com
