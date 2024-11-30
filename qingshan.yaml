@@ -150,12 +150,11 @@ payload:
   
 #虎牙
   - DOMAIN-SUFFIX,huya.com
-  - DOMAIN-SUFFIX,huyaimg.msstatic.com
   - DOMAIN-SUFFIX,huyagame.cn
   - DOMAIN-SUFFIX,peiwanlu.com
-  - DOMAIN-SUFFIX,snapplay.com  
-  
+  - DOMAIN-SUFFIX,snapplay.com
 #斗鱼
+  - DOMAIN-SUFFIX,bytefcdnrd.com
   - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,douyu.tv
   - DOMAIN-SUFFIX,douyuba.cn
@@ -165,7 +164,9 @@ payload:
   - DOMAIN-SUFFIX,douyuscdn.com
   - DOMAIN-SUFFIX,douyutv.com
   - DOMAIN-SUFFIX,doyonoc.com
-  - DOMAIN-SUFFIX,oywtv.com  
+  - DOMAIN-SUFFIX,edgesrv.com
+  - DOMAIN-SUFFIX,guguyuyin.com
+  - DOMAIN-SUFFIX,oywtv.com
  #抖音 
   - DOMAIN,lf3-static.bytednsdoc.com
   - DOMAIN,v5-dy-o-abtest.zjcdn.com
