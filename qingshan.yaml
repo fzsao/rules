@@ -153,6 +153,7 @@ payload:
   - DOMAIN-SUFFIX,huyagame.cn
   - DOMAIN-SUFFIX,peiwanlu.com
   - DOMAIN-SUFFIX,snapplay.com
+  - DOMAIN-SUFFIX,msstatic.com
 #斗鱼
   - DOMAIN-SUFFIX,bytefcdnrd.com
   - DOMAIN-SUFFIX,douyu.com
