@@ -26,6 +26,9 @@
 				"p16-tiktokcdn-com.akamaized.net"
 			],
 			"domain_suffix": [
+		        "coolapk.com",
+		        "coolapkmarket.com",
+		        "coolapkmarket.net",
 				"smzdm.com",				
 				"weibo.cn",
 				"weibo.com",
@@ -731,4 +734,5 @@
 		}
 	]
 }
+
 
