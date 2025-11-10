@@ -26,6 +26,7 @@
 				"p16-tiktokcdn-com.akamaized.net"
 			],
 			"domain_suffix": [
+				"smzdm.com",				
 				"weibo.cn",
 				"weibo.com",
 				"weibocdn.com",
@@ -730,3 +731,4 @@
 		}
 	]
 }
+
