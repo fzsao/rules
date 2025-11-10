@@ -29,7 +29,10 @@
 		        "coolapk.com",
 		        "coolapkmarket.com",
 		        "coolapkmarket.net",
-				"smzdm.com",				
+				"smzdm.com",
+				"smzdmimg.com",
+				"zdmimg.com",
+				"zhidemai.com",				
 				"weibo.cn",
 				"weibo.com",
 				"weibocdn.com",
@@ -734,5 +737,6 @@
 		}
 	]
 }
+
 
 
